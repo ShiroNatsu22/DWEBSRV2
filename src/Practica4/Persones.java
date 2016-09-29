@@ -21,7 +21,7 @@ class Intercambi extends Estudiant{
 }
 class Treballadors extends Persones{
 
-    private String numS;
+    private String numSS;
 
 }
 class PersonalGestio extends Treballadors {
